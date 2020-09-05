@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AppFirebaseKotlin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_cerrar">Cerrar Sesión</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="etemail">Ingrese su email:</string>
+    <string name="valtvtitulo">AUTENTICACIÓN FIREBASE</string>
+    <string name="etpassword">Ingrese su password:</string>
+    <string name="valbtnlogin">Autenticación Firebase</string>
+    <string name="facebook_app_id">327744551675573</string>
+    <string name="fb_login_protocol_scheme">fb327744551675573</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valFragGaleria">Galeria Storage</string>
+    <string name="valFragRegistro">Registro Firestore</string>
+    <string name="valFragLista">Lista Firestore</string>
+    <string name="valtituloregistro">Registro Firestore</string>
+    <string name="valetnombre">Ingrese nombre.</string>
+    <string name="valetapellido">Ingrese apellido</string>
+    <string name="valetedad">Ingrese edad</string>
+    <string name="valbtnregistrar">Registrar Persona</string>
+
+
+</resources>
